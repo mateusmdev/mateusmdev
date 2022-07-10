@@ -4,6 +4,7 @@
   <a href="https://github.com/mateusmdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusmdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmdev&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ### Linguagens e Ferramentas
@@ -23,7 +24,7 @@
   <img align="center" alt="Mateus-GIT" height="30" width="40" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
   <img align="center" alt="Mateus-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
 </div>
-
+  
   ##
   
   <div>
