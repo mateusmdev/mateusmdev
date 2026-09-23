@@ -1,9 +1,10 @@
 ## Mateus Melo
 
 <div align="center">
-  <a href="https://github.com/mateusmdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusmdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmdev&layout=compact&langs_count=7&theme=algolia"/>
+  <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusmdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Recurso não disponível"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmdev&layout=compact&langs_count=7&theme=algolia" alt="Recurso não disponível"/>
+  </div>
 </div>
 
 ### Linguagens e Ferramentas
@@ -15,7 +16,7 @@
   <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mateus-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mateus-Express.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg">
-  <img align="center" alt="Mateus-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <!-- <img align="center" alt="Mateus-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> -->
   <img align="center" alt="Mateus-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Mateus-Npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Mateus-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg">
